@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lightbreakers
+- 👋 Hi, I’m @lightbreakers Harsh Parashar
 - 👀 I’m interested in creating value for all humans
 - 🌱 I’m always learning JS, nodeJS, python and cloud technolo0gies
 - 💞️ I’m looking to collaborate on ...any kind of which i can provide value
